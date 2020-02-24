@@ -1,4 +1,4 @@
-# MachineLearningProjects
+# Machine Learning Projects
 
 Tools: Python (Pandas, NumPy, Scikit Learn)
 
